@@ -14,8 +14,3 @@ Este repositório contém exercícios e exemplos práticos para aprender os fund
 
 ## 🎯 Objetivo
 Aprender e praticar a linguagem Java, focando no entendimento dos conceitos básicos e na lógica de programação.
-
-## 📖 Como executar os exemplos
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Java-Basico.git
